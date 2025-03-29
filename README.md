@@ -7,7 +7,7 @@ Soy un desarrollador con experiencia en backend y frontend, especializado en el 
 ## 🚀 Tecnologías y Herramientas
 
 ### 🖥️ Backend
-- **Lenguajes**: Java, PHP, Python
+- **Lenguajes**: Java, PHP, Python, C++
 - **Frameworks**: Spring Boot, Spring Security
 - **ORMs y Persistencia**: Hibernate, JPA, JDBC, Flyway
 - **Gestión de Dependencias**: Maven, Gradle
