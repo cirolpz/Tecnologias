@@ -13,6 +13,7 @@ Soy un desarrollador con experiencia en backend y frontend, especializado en el 
 - **Gestión de Dependencias**: Maven, Gradle
 - **Arquitectura**: Microservicios, Clean Architecture
 - - **Documentación**: Swagger
+- **Bases de Datos**: MySQL, PostgreSQL
 
 ### 🌐 Frontend
 - **Lenguajes y Tecnologías**: HTML, CSS, JavaScript
