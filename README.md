@@ -15,7 +15,7 @@ Soy un desarrollador con experiencia en backend y frontend, especializado en el 
 
 ### 🌐 Frontend
 - **Lenguajes y Tecnologías**: HTML, CSS, JavaScript
-- **Frameworks y Librerías**: React, Swing
+- **Frameworks y Librerías**: React, Swing, Angular
 - **Estilos y UI**: Tailwind CSS, Bootstrap
 
 ### 🛠️ Desarrollo y Herramientas
