@@ -12,7 +12,7 @@ Soy un desarrollador con experiencia en backend y frontend, especializado en el 
 - **ORMs y Persistencia**: Hibernate, JPA, JDBC, Flyway
 - **Gestión de Dependencias**: Maven, Gradle
 - **Arquitectura**: Microservicios, Clean Architecture
-- - **Documentación**: Swagger
+- **Documentación**: Swagger
 - **Bases de Datos**: MySQL, PostgreSQL
 
 ### 🌐 Frontend
